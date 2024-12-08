@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\bin\Debug\net9.0\dotnet.exe
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\bin\Debug\net9.0\dotnet.deps.json
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\bin\Debug\net9.0\dotnet.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\bin\Debug\net9.0\dotnet.dll
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\bin\Debug\net9.0\dotnet.pdb
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\dotnet.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\dotnet.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\dotnet.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\dotnet.dll
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\refint\dotnet.dll
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\dotnet.pdb
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\dotnet.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\exemplo-fundamentos\obj\Debug\net9.0\ref\dotnet.dll

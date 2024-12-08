@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\bin\Debug\net9.0\contador-numeros.exe
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\bin\Debug\net9.0\contador-numeros.deps.json
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\bin\Debug\net9.0\contador-numeros.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\bin\Debug\net9.0\contador-numeros.dll
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\bin\Debug\net9.0\contador-numeros.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\contador-numeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\contador-numeros.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\contador-numeros.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\contador-numeros.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\contador-numeros.dll
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\refint\contador-numeros.dll
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\contador-numeros.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\contador-numeros.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exercicios\contador-numeros\obj\Debug\net9.0\ref\contador-numeros.dll

@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\bin\Debug\net9.0\gerenciar-produtos.exe
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\bin\Debug\net9.0\gerenciar-produtos.deps.json
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\bin\Debug\net9.0\gerenciar-produtos.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\bin\Debug\net9.0\gerenciar-produtos.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\bin\Debug\net9.0\gerenciar-produtos.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\gerenciar-produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\gerenciar-produtos.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\gerenciar-produtos.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\gerenciar-produtos.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\gerenciar-produtos.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\refint\gerenciar-produtos.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\gerenciar-produtos.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\gerenciar-produtos.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerenciar-produtos\obj\Debug\net9.0\ref\gerenciar-produtos.dll

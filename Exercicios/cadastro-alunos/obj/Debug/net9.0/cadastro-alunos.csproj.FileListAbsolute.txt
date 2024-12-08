@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\bin\Debug\net9.0\cadastro-alunos.exe
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\bin\Debug\net9.0\cadastro-alunos.deps.json
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\bin\Debug\net9.0\cadastro-alunos.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\bin\Debug\net9.0\cadastro-alunos.dll
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\bin\Debug\net9.0\cadastro-alunos.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\cadastro-alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\cadastro-alunos.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\cadastro-alunos.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\cadastro-alunos.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\cadastro-alunos.dll
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\refint\cadastro-alunos.dll
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\cadastro-alunos.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\cadastro-alunos.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exercicios\cadastro-alunos\obj\Debug\net9.0\ref\cadastro-alunos.dll

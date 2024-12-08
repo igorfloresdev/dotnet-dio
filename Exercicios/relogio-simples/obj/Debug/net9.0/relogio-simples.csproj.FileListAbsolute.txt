@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\bin\Debug\net9.0\relogio-simples.exe
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\bin\Debug\net9.0\relogio-simples.deps.json
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\bin\Debug\net9.0\relogio-simples.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\bin\Debug\net9.0\relogio-simples.dll
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\bin\Debug\net9.0\relogio-simples.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\relogio-simples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\relogio-simples.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\relogio-simples.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\relogio-simples.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\relogio-simples.dll
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\refint\relogio-simples.dll
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\relogio-simples.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\relogio-simples.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exercicios\relogio-simples\obj\Debug\net9.0\ref\relogio-simples.dll

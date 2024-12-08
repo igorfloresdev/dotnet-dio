@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\bin\Debug\net9.0\gerador-mensagem.exe
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\bin\Debug\net9.0\gerador-mensagem.deps.json
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\bin\Debug\net9.0\gerador-mensagem.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\bin\Debug\net9.0\gerador-mensagem.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\bin\Debug\net9.0\gerador-mensagem.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\gerador-mensagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\gerador-mensagem.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\gerador-mensagem.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\gerador-mensagem.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\gerador-mensagem.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\refint\gerador-mensagem.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\gerador-mensagem.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\gerador-mensagem.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-mensagem\obj\Debug\net9.0\ref\gerador-mensagem.dll

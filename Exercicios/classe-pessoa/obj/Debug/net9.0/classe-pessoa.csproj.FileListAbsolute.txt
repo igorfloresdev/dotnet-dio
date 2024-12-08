@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\bin\Debug\net9.0\classe-pessoa.exe
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\bin\Debug\net9.0\classe-pessoa.deps.json
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\bin\Debug\net9.0\classe-pessoa.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\bin\Debug\net9.0\classe-pessoa.dll
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\bin\Debug\net9.0\classe-pessoa.pdb
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\classe-pessoa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\classe-pessoa.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\classe-pessoa.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\classe-pessoa.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\classe-pessoa.dll
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\refint\classe-pessoa.dll
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\classe-pessoa.pdb
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\classe-pessoa.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exericios\classe-pessoa\obj\Debug\net9.0\ref\classe-pessoa.dll

@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\bin\Debug\net9.0\gerador-numeros.exe
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\bin\Debug\net9.0\gerador-numeros.deps.json
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\bin\Debug\net9.0\gerador-numeros.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\bin\Debug\net9.0\gerador-numeros.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\bin\Debug\net9.0\gerador-numeros.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\gerador-numeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\gerador-numeros.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\gerador-numeros.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\gerador-numeros.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\gerador-numeros.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\refint\gerador-numeros.dll
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\gerador-numeros.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\gerador-numeros.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exercicios\gerador-numeros\obj\Debug\net9.0\ref\gerador-numeros.dll

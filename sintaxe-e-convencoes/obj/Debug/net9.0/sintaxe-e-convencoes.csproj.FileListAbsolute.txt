@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\bin\Debug\net9.0\sintaxe-e-convencoes.exe
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\bin\Debug\net9.0\sintaxe-e-convencoes.deps.json
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\bin\Debug\net9.0\sintaxe-e-convencoes.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\bin\Debug\net9.0\sintaxe-e-convencoes.dll
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\bin\Debug\net9.0\sintaxe-e-convencoes.pdb
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\sintaxe-e-convencoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\sintaxe-e-convencoes.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\sintaxe-e-convencoes.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\sintaxe-e-convencoes.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\sintaxe-e-convencoes.dll
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\refint\sintaxe-e-convencoes.dll
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\sintaxe-e-convencoes.pdb
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\sintaxe-e-convencoes.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\sintaxe-e-convencoes\obj\Debug\net9.0\ref\sintaxe-e-convencoes.dll

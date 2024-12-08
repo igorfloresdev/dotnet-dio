@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\bin\Debug\net9.0\conversor-temperatura.exe
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\bin\Debug\net9.0\conversor-temperatura.deps.json
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\bin\Debug\net9.0\conversor-temperatura.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\bin\Debug\net9.0\conversor-temperatura.dll
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\bin\Debug\net9.0\conversor-temperatura.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\conversor-temperatura.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\conversor-temperatura.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\conversor-temperatura.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\conversor-temperatura.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\conversor-temperatura.dll
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\refint\conversor-temperatura.dll
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\conversor-temperatura.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\conversor-temperatura.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exercicios\conversor-temperatura\obj\Debug\net9.0\ref\conversor-temperatura.dll

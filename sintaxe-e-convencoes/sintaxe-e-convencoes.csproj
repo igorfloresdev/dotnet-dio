@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType> <!-- Saída do projeto, pode ser um executavel ou arquivo de biblioteca --> 
+    <TargetFramework>net9.0</TargetFramework> <!-- Versão do dotnet que estamos utilizando (podemos modifica-lo) --> 
+    <RootNamespace>sintaxe_e_convencoes</RootNamespace> <!--  -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
+<!-- Arquivo .csproj, é um arquivo de projeto do C# pussui informações descritivas do projeto (Metadados) são opções do projeto -->

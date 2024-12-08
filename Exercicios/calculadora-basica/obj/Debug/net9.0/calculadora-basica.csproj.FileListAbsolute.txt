@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\bin\Debug\net9.0\calculadora-basica.exe
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\bin\Debug\net9.0\calculadora-basica.deps.json
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\bin\Debug\net9.0\calculadora-basica.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\bin\Debug\net9.0\calculadora-basica.dll
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\bin\Debug\net9.0\calculadora-basica.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\calculadora-basica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\calculadora-basica.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\calculadora-basica.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\calculadora-basica.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\calculadora-basica.dll
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\refint\calculadora-basica.dll
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\calculadora-basica.pdb
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\calculadora-basica.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\Exercicios\calculadora-basica\obj\Debug\net9.0\ref\calculadora-basica.dll
