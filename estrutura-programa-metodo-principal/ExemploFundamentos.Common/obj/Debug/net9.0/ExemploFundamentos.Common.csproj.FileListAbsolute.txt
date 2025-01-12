@@ -1,0 +1,11 @@
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.deps.json
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.dll
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\bin\Debug\net9.0\ExemploFundamentos.Common.pdb
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.dll
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\obj\Debug\net9.0\refint\ExemploFundamentos.Common.dll
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\obj\Debug\net9.0\ExemploFundamentos.Common.pdb
+D:\Documentos\Estudos\dotnet\estrutura-programa-metodo-principal\ExemploFundamentos.Common\obj\Debug\net9.0\ref\ExemploFundamentos.Common.dll

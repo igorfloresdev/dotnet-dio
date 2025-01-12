@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.exe
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.deps.json
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.dll
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\bin\Debug\net9.0\estrutura-repeticao.pdb
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.dll
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\refint\estrutura-repeticao.dll
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.pdb
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\estrutura-repeticao.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\estrutura-repeticao\obj\Debug\net9.0\ref\estrutura-repeticao.dll

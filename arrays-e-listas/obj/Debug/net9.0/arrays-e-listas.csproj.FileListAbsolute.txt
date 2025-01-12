@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\arrays-e-listas\bin\Debug\net9.0\arrays-e-listas.exe
+D:\Documentos\Estudos\dotnet\arrays-e-listas\bin\Debug\net9.0\arrays-e-listas.deps.json
+D:\Documentos\Estudos\dotnet\arrays-e-listas\bin\Debug\net9.0\arrays-e-listas.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\arrays-e-listas\bin\Debug\net9.0\arrays-e-listas.dll
+D:\Documentos\Estudos\dotnet\arrays-e-listas\bin\Debug\net9.0\arrays-e-listas.pdb
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\arrays-e-listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\arrays-e-listas.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\arrays-e-listas.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\arrays-e-listas.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\arrays-e-listas.dll
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\refint\arrays-e-listas.dll
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\arrays-e-listas.pdb
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\arrays-e-listas.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\arrays-e-listas\obj\Debug\net9.0\ref\arrays-e-listas.dll

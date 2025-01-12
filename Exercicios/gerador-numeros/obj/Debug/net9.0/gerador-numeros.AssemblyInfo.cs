@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gerador-numeros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f9f3fd52a6958aa942c9ee49011ae660ed21a40")]
 [assembly: System.Reflection.AssemblyProductAttribute("gerador-numeros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gerador-numeros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\operadores-logicos\bin\Debug\net9.0\operadores-logicos.exe
+D:\Documentos\Estudos\dotnet\operadores-logicos\bin\Debug\net9.0\operadores-logicos.deps.json
+D:\Documentos\Estudos\dotnet\operadores-logicos\bin\Debug\net9.0\operadores-logicos.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\operadores-logicos\bin\Debug\net9.0\operadores-logicos.dll
+D:\Documentos\Estudos\dotnet\operadores-logicos\bin\Debug\net9.0\operadores-logicos.pdb
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\operadores-logicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\operadores-logicos.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\operadores-logicos.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\operadores-logicos.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\operadores-logicos.dll
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\refint\operadores-logicos.dll
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\operadores-logicos.pdb
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\operadores-logicos.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\operadores-logicos\obj\Debug\net9.0\ref\operadores-logicos.dll

@@ -1,0 +1,14 @@
+D:\Documentos\Estudos\dotnet\operadores-condicionais\bin\Debug\net9.0\operadores-condicionais.exe
+D:\Documentos\Estudos\dotnet\operadores-condicionais\bin\Debug\net9.0\operadores-condicionais.deps.json
+D:\Documentos\Estudos\dotnet\operadores-condicionais\bin\Debug\net9.0\operadores-condicionais.runtimeconfig.json
+D:\Documentos\Estudos\dotnet\operadores-condicionais\bin\Debug\net9.0\operadores-condicionais.dll
+D:\Documentos\Estudos\dotnet\operadores-condicionais\bin\Debug\net9.0\operadores-condicionais.pdb
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\operadores-condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\operadores-condicionais.AssemblyInfoInputs.cache
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\operadores-condicionais.AssemblyInfo.cs
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\operadores-condicionais.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\operadores-condicionais.dll
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\refint\operadores-condicionais.dll
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\operadores-condicionais.pdb
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\operadores-condicionais.genruntimeconfig.cache
+D:\Documentos\Estudos\dotnet\operadores-condicionais\obj\Debug\net9.0\ref\operadores-condicionais.dll
